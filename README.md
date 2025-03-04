@@ -43,11 +43,11 @@ By default, the application runs on http://localhost:5173/ :
 
 ## How I try to stand out
 
-✔️ Clean and user-friendly banking dashboard.
-✔️ Fully responsive design, optimized for all devices.
-✔️ Built with React and Tailwind CSS for easy customization.
-✔️ Well-structured and maintainable codebase.
-✔️ Notification system for warnings and success messages.
+    ✔️ Clean and user-friendly banking dashboard.
+    ✔️ Fully responsive design, optimized for all devices.
+    ✔️ Built with React and Tailwind CSS for easy customization.
+    ✔️ Well-structured and maintainable codebase.
+    ✔️ Notification system for warnings and success messages.
 
 ## Customization
 
